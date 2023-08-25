@@ -1,5 +1,4 @@
-﻿# convertisseur_unite
-Convertisseur d'Unités en Python
+#Convertisseur d'Unités en Python
 Ce projet est un convertisseur d'unités simple en ligne de commande, développé en Python. Il vous permet de convertir différentes unités de mesure, telles que les températures, les distances et les masses, de manière rapide et intuitive.
 
 Fonctionnalités
