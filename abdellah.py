@@ -30,7 +30,7 @@ def main():
         print("3. Convertir une masse")
         print("4. Quitter")
 
-        choice = input("Votre choix : ")
+        choice = input("Votre choix  ")
 
         if choice == "1":
             value = float(input("Entrez la valeur : "))
