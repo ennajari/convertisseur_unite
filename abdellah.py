@@ -19,7 +19,6 @@ class UnitConverter:
 
 def main():
     converter = UnitConverter()
-
     print("Bienvenue dans le convertisseur d'unités!")
 
     while True:
