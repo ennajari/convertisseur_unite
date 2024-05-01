@@ -30,7 +30,6 @@ def main():
         print("4. Quitter")
 
         choice = input("Votre choix  ")
-
         if choice == "1":
             value = float(input("Entrez la valeur : "))
             from_unit = input("Entrez l'unité d'origine (celsius/fahrenheit) : ").lower()
